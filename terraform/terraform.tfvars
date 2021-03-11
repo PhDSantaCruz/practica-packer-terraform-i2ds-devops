@@ -1,0 +1,6 @@
+do_token = "926ef482c8cf93fe622b2d25db0da798a6487f891a23b1577bcdbb824bf80ec5"
+droplet_ssh_key_id = "29600844"
+droplet_name = "server-by-terraform"
+droplet_image = "ubuntu-20-04-x64"
+droplet_size = "s-2vcpu-2gb"
+droplet_region = "nyc1"
